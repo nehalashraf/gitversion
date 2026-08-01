@@ -1,0 +1,146 @@
+[
+  {
+    "item_id": 9001,
+    "item_name": "Street Taco Trio",
+    "cuisine_category": "Tacos",
+    "price_usd": 5.79
+  },
+  {
+    "item_id": 9002,
+    "item_name": "Loaded Nachos",
+    "cuisine_category": "Tacos",
+    "price_usd": 10.1
+  },
+  {
+    "item_id": 9003,
+    "item_name": "Elote Cup",
+    "cuisine_category": "Tacos",
+    "price_usd": 4.6
+  },
+  {
+    "item_id": 9004,
+    "item_name": "Garlic Noodle Bowl",
+    "cuisine_category": "Noodles",
+    "price_usd": 11.56
+  },
+  {
+    "item_id": 9005,
+    "item_name": "Spicy Ramen Cup",
+    "cuisine_category": "Noodles",
+    "price_usd": 6.05
+  },
+  {
+    "item_id": 9006,
+    "item_name": "Cold Sesame Noodles",
+    "cuisine_category": "Noodles",
+    "price_usd": 6.9
+  },
+  {
+    "item_id": 9007,
+    "item_name": "Pulled Pork Sandwich",
+    "cuisine_category": "BBQ",
+    "price_usd": 5.74
+  },
+  {
+    "item_id": 9008,
+    "item_name": "Brisket Plate",
+    "cuisine_category": "BBQ",
+    "price_usd": 9.04
+  },
+  {
+    "item_id": 9009,
+    "item_name": "BBQ Slider Duo",
+    "cuisine_category": "BBQ",
+    "price_usd": 9.68
+  },
+  {
+    "item_id": 9010,
+    "item_name": "Buddha Bowl",
+    "cuisine_category": "Vegan Bowls",
+    "price_usd": 7.21
+  },
+  {
+    "item_id": 9011,
+    "item_name": "Chickpea Power Bowl",
+    "cuisine_category": "Vegan Bowls",
+    "price_usd": 5.57
+  },
+  {
+    "item_id": 9012,
+    "item_name": "Rainbow Slaw Bowl",
+    "cuisine_category": "Vegan Bowls",
+    "price_usd": 11.8
+  },
+  {
+    "item_id": 9013,
+    "item_name": "Belgian Waffle",
+    "cuisine_category": "Waffles",
+    "price_usd": 12.58
+  },
+  {
+    "item_id": 9014,
+    "item_name": "Chicken & Waffle",
+    "cuisine_category": "Waffles",
+    "price_usd": 10.07
+  },
+  {
+    "item_id": 9015,
+    "item_name": "Waffle Sundae",
+    "cuisine_category": "Waffles",
+    "price_usd": 10.79
+  },
+  {
+    "item_id": 9016,
+    "item_name": "Personal Margherita",
+    "cuisine_category": "Pizza",
+    "price_usd": 8.38
+  },
+  {
+    "item_id": 9017,
+    "item_name": "Pepperoni Slice",
+    "cuisine_category": "Pizza",
+    "price_usd": 11.9
+  },
+  {
+    "item_id": 9018,
+    "item_name": "Veggie Slice",
+    "cuisine_category": "Pizza",
+    "price_usd": 12.59
+  },
+  {
+    "item_id": 9019,
+    "item_name": "Berry Blast Smoothie",
+    "cuisine_category": "Smoothies",
+    "price_usd": 10.28
+  },
+  {
+    "item_id": 9020,
+    "item_name": "Green Detox Smoothie",
+    "cuisine_category": "Smoothies",
+    "price_usd": 9.25
+  },
+  {
+    "item_id": 9021,
+    "item_name": "Mango Lassi",
+    "cuisine_category": "Smoothies",
+    "price_usd": 7.88
+  },
+  {
+    "item_id": 9022,
+    "item_name": "Pork Dumpling Basket",
+    "cuisine_category": "Dumplings",
+    "price_usd": 7.85
+  },
+  {
+    "item_id": 9023,
+    "item_name": "Veggie Potsticker Plate",
+    "cuisine_category": "Dumplings",
+    "price_usd": 8.59
+  },
+  {
+    "item_id": 9024,
+    "item_name": "Soup Dumpling Trio",
+    "cuisine_category": "Dumplings",
+    "price_usd": 7.9
+  }
+]
